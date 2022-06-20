@@ -21,7 +21,9 @@ You will not be forking this time, please take some time to read this instructio
 
 Once you are finished creating your eda notebook and  your cleaning pipeline, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
 
-# New York City Airbnb data
+## 📝 Instructions
+
+**New York City Airbnb data**:
 
 This is a dataset that contains Airbnb data on New York City. You will use it to practice your new EDA (exploratory data analysis) and data cleaning skills.
 
