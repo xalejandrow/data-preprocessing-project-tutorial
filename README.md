@@ -7,8 +7,6 @@
 - Use your explore notebook to try different cleaning methods.
 - Once you have your final cleaning process, use your app.py file to create a pipeline that cleans your data.
 
-Inside this repository, you will find a file called `./INSTRUCTIONS.md` with the steps needed to complete it.
-
 ## 🌱  How to start this project
 
 You will not be forking this time, please take some time to read this instructions:
