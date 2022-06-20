@@ -2,10 +2,10 @@
 # Data Pre-processing Project Tutorial
 <!-- endhide -->
 
-- Create a SQL database using the MariaDB endine on top Heroku.com.
-- Undertand and get used to the most basic profesional python project structure with PIP and `.env` file.
-- Use SQLAlchemy the most popular library in the industry for connecting to SQL databases.
-- Use Pandas to display SQL Tables as dataframes.
+- Download the New York Airbnb data from Kaggle.com (Find the direct link on INSTRUCTIONS)
+- Do as much exploratory data analysis as you can to find patterns and get insights from the data.
+- Use your explore notebook to try different cleaning methods.
+- Once you have your final cleaning process, use your app.py file to create a pipeline that cleans your data.
 
 Inside this repository, you will find a file called `./INSTRUCTIONS.md` with the steps needed to complete it.
 
@@ -19,4 +19,4 @@ You will not be forking this time, please take some time to read this instructio
 
 ## 🚛 How to deliver this project
 
-Once you are finished solving the exercises make sure to commit your changes, push to your repository fork and go to 4Geeks.com to upload the repository link.
+Once you are finished creating your eda notebook and  your cleaning pipeline, make sure to commit your changes, push to your repository and go to 4Geeks.com to upload the repository link.
